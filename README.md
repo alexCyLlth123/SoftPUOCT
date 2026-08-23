@@ -36,7 +36,7 @@ SoftPUOCT/
 │   ├── oct.py
 │   └── softPUOCT.py
 │
-├── exp[data_pipeline.py](src%2Fdata_pipeline.py)eriments/
+├── experiments/
 │   ├── run_oct.py
 │   └── run_softpuoct.py
 │

@@ -1,2 +1,2 @@
 # SoftPUOCT
-An EM appraoch to learn optimal classification trees under PU data
+An EM approach to learn optimal classification trees under PU data
